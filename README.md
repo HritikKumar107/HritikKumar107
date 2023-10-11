@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hritikk256&label=Profile%20views&color=0e75b6&style=flat" alt="Hritikk256" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Hritikk256" target="blank"><img src="https://img.shields.io/twitter/follow/Hritikk256?logo=twitter&style=for-the-badge" alt="Hritikk256" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LovingHarry1947" target="blank"><img src="https://img.shields.io/twitter/follow/Hritikk256?logo=twitter&style=for-the-badge" alt="Hritikk256" /></a> </p>
 
 - 🔭 I’m currently working on **Paying-guest Searching web application**
 
